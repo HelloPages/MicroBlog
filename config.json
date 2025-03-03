@@ -5,7 +5,7 @@
     "faviconUrl":"avatar.svg",
     "i18n":"CN",
     "homeUrl":"https://hellopages.github.io/MicroBlog",
-    "startSite":"11/11/2024",
+    "startSite":"11/11/2020",
     "onePageListNum":15,
     "singlePage":["link","bookmark","about"],
     "primerCSS":"<link href='https://cdndev.pages.dev/cdn/hbw/primer.min.css' rel='stylesheet' />",

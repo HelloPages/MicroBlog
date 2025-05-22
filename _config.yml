@@ -1,11 +1,11 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: HB
+title: MicroBlog - MicroBlogs
+keywords: 鸿博, 微型博客
 description: >-
-  Ephesus - Minimalist Jekyll Theme
-lang: en-US
-timezone:  Europe/Istanbul
+  微型博客 - MicroBlogs
+lang: zh-Hans
+timezone:  China
 repo: https://github.com/HelloPages/guestbook # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
@@ -13,15 +13,15 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: HB
+  bio: 边角料 <br> 打工人 <br> 躺平 /摆烂
   picture: assets/images/profile.png
-  github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
+  github: username # github username
+  twitter: username # twitter username
+  facebook: username # facebook username
+  instagram: username # instagram username
   youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
+  linkedin: username # linkedin username
   email: your-email@email.com # email adress
 
 

@@ -26,8 +26,8 @@ author:
 
 
 # URL settings
-url: "https://hellopages.github.io/" # Domain Name of host. [username].github.io for github pages
-# permalink: pretty
+url: "https://hellopages.github.io" # Domain Name of host. [username].github.io for github pages
+permalink: pretty
 
 markdown: kramdown
 kramdown:
@@ -77,6 +77,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "note"
 
 relative_links:
   enabled:     true

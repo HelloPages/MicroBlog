@@ -27,6 +27,7 @@ author:
 
 # URL settings
 url: "https://hellopages.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "/microblog"
 permalink: pretty
 
 markdown: kramdown
